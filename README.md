@@ -1,1 +1,1 @@
-Exercícios do Beecrowd/URI feitos para a disciplina programação de computadores 1 em 2021/2
+Projetos da disciplina Programação de Computadores I, ofertada pelo CEFET-MG
